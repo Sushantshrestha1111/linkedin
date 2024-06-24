@@ -17,6 +17,9 @@ const Home=(props)=>{
             <p>
                 Find talented props in record time with and keep business moving.
             </p>
+            <p>
+                Find talented props in record time with and keep business moving.
+            </p>
         </Section>
         <Layout>
             <Leftside/>
